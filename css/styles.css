@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --primary-text-color: #212121;
   --head-text-color: #000000;
   --subsidiary-color: #2196F3;
@@ -343,7 +343,7 @@ margin-right: 30px;
 }
 
 .lis_advant_li:last-child {
-  margin-right: 30px;
+  margin-right: 0px;
   }
 
 
