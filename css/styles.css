@@ -413,6 +413,7 @@ margin-right: 30px;
       color: var(--primary-text-color);
       border: none;
       cursor: pointer;
+      padding: 0;
   }
 
   .lis_buttons_each:hover,
@@ -439,6 +440,7 @@ margin-right: 30px;
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
     border: none;
+    padding: 0;
   }
 
   .lis_buttons_each_sites:hover,
@@ -465,6 +467,7 @@ margin-right: 30px;
       letter-spacing: 0.03em;
       color: var(--primary-text-color);
       border: none;
+      padding: 0;
       }
 
       .lis_buttons_each_apps:hover,
@@ -491,6 +494,7 @@ margin-right: 30px;
         letter-spacing: 0.03em;
         color: var(--primary-text-color);
         border: none;
+        padding: 0;
       }
 
       .lis_buttons_each_design:hover,
@@ -517,6 +521,7 @@ margin-right: 30px;
         letter-spacing: 0.03em;
         color: var(--primary-text-color);
         border: none;
+        padding: 0;
       }
 
       .lis_buttons_each_market:hover,
